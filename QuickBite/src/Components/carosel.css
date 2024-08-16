@@ -1,0 +1,9 @@
+/* Add this CSS to your stylesheet */
+.carousel-container .react-multi-carousel-item {
+    transition: none !important;
+  }
+  
+  .carousel-container .react-multi-carousel-track {
+    transition: none !important;
+  }
+  
